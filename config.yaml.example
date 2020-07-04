@@ -1,0 +1,10 @@
+---
+api_host: https://your.api.host
+api_token: 'long-lived token from hass'
+nodes:
+  - 1
+  - 2
+  - 3
+codes:
+  - '1234'
+  - '5678'
